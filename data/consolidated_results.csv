@@ -1,0 +1,15 @@
+Stage,Dataset,Key result,Status
+Theorem,1500 randomized cases,Max relative numerical error 8.02e-8,Passed
+Phase 3,"Primary unimodal benchmark, budget 8","QMB-only: 73.3% [68.1, 78.0]",
+Phase 3,"Primary unimodal benchmark, budget 8","Hybrid QMB+GP: 91.3% [87.6, 94.0]",Hybrid passed; standalone failed
+Phase 3,"Primary unimodal benchmark, budget 8","Bayesian: 90.3% [86.5, 93.2]",
+Phase 3,"Primary unimodal benchmark, budget 8","Golden: 92.0% [88.4, 94.6]",
+Phase 3,"Primary unimodal benchmark, budget 8","Grid: 79.3% [74.4, 83.5]",
+Phase 5,"Related devices, budget 5","Gated QMB+GP: 99.2% [95.4, 99.9]",Primary passed
+Phase 5,"Related devices, budget 5","Direct metadata+GP: 99.2% [95.4, 99.9]",
+Phase 5,"Related devices, budget 5","Fresh Bayesian: 60.0% [51.1, 68.3]",
+Phase 5,"Related devices, budget 5","Grid: 52.5% [43.6, 61.2]",
+Phase 6,"Moderate realism, budget 6","Gated robust QMB+GP: 77.1% [61.0, 87.9]",Primary failed
+Phase 6,"Moderate realism, budget 6","Direct robust metadata+GP: 74.3% [57.9, 85.8]",
+Phase 6,"Moderate realism, budget 6","Static QMB+GP: 65.7% [49.2, 79.2]",
+Phase 6,"Moderate realism, budget 6","Fresh Bayesian: 60.0% [43.6, 74.4]",
