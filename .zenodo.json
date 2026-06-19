@@ -1,0 +1,21 @@
+{
+  "title": "Optimum-Centred Protection–Damage Priors for Quantum Calibration",
+  "upload_type": "software",
+  "description": "Reproducibility repository for an interpretable optimum-centred protection–damage prior for adaptive virtual quantum calibration under drift, leakage, latency, and incomplete metadata. The repository does not claim new fundamental physics or experimental validation.",
+  "creators": [
+    {
+      "name": "Salihawa, Abubakar Rabiu",
+      "affiliation": "Independent Researcher, Nigeria"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "quantum calibration",
+    "open quantum systems",
+    "Bayesian optimization",
+    "physics-informed machine learning",
+    "transfer learning",
+    "quantum control"
+  ],
+  "access_right": "open"
+}
