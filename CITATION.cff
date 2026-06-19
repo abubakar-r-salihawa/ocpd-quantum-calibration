@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, data, or framework, please cite the archived release and accompanying manuscript."
+title: "Optimum-Centred Protection–Damage Priors for Quantum Calibration"
+type: software
+authors:
+  - family-names: "Salihawa"
+    given-names: "Abubakar Rabiu"
+    email: "abubakarsalihawa019@gmail.com"
+    affiliation: "Independent Researcher, Nigeria"
+version: 0.1.0
+date-released: 2026-06-19
+repository-code: "https://github.com/abubakar-r-salihawa/ocpd-quantum-calibration"
+license: MIT
+keywords:
+  - quantum calibration
+  - open quantum systems
+  - Bayesian optimization
+  - physics-informed machine learning
+  - transfer learning
+  - calibration drift
+  - quantum control
